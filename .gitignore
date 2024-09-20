@@ -1,0 +1,9 @@
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*.exe
+.terraform.lock.hcl
+.terraform
+variables.tf
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.2.0/windows_amd64/terraform-provider-azurerm_v4.2.0_x5.exe
